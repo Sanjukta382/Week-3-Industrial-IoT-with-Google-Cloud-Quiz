@@ -1,4 +1,4 @@
-# Week-3-Industrial-IoT-with-Google-Cloyhd-Quiz
+# Week-3-Industrial-IoT-with-Google-Cloud-Quiz
 Week 3
 
 Sensor and Devices
